@@ -1,8 +1,18 @@
-.webixappstart {
-  opacity: 0;
+/* .webixappstart{
+    opacity:0;
 }
-.webixapp {
-  transition: opacity 500ms;
-  opacity: 1;
+.webixapp{
+    transition: opacity 500ms;
+    opacity: 1;
+} */
+.link .webix_template {
+  color: #1ca1c1;
+  cursor: pointer;
+}
+.link .webix_template a:hover {
+  color: #1cc1c1;
+}
+.link .webix_template a:active {
+  color: #157c96;
 }
 
