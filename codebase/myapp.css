@@ -15,4 +15,13 @@
 .link .webix_template a:active {
   color: #157c96;
 }
+.header_label .webix_el_box {
+  font-size: 1.2rem;
+}
+.smz_ok {
+  color: green;
+}
+.smz_error {
+  color: #e02020;
+}
 
